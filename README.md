@@ -57,7 +57,7 @@
    ```
 5. **Clone the Repository**
    ```bash
-   git clone https://github.com/TeamInflex/InflexMusicBot && cd InflexMusicBot
+   git clone https://github.com/mocpi07/musicbot && cd musicbot
    ```
 6. **Install Requirements**
    ```bash
